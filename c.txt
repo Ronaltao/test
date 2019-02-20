@@ -1,2 +1,3 @@
 today is sunny
 today is rainy
+today is wednesday
